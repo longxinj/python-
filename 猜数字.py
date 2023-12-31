@@ -38,6 +38,6 @@ while count < 5:
             
             break
         else:
-            print("打个yes on 打不明白？")
+            print("打个yes no 打不明白？")
             continue
 print("游戏结束，你总共猜了{}次。".format(countl * 5 + count))
